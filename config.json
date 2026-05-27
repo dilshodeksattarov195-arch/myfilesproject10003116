@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdrocess",
+        "uuid": 14003304,
+        "checksum": "w348b3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
